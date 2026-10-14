@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus 👋
 
-Desenvolvedor em formação e aluno do **Jovem Programador**. Gosto de aprender na prática, construindo projetos e resolvendo problemas com código.
+Desenvolvedor em formação e aluno do **Jovem Programador** pelo Senac e **Engenharia de Softwere** pela UniBF. Gosto de aprender na prática, construindo projetos e resolvendo problemas com código.
 
 ## 🛠️ Tecnologias
 
